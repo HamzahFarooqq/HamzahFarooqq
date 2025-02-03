@@ -46,7 +46,7 @@
 
 ### CMS  
 <div align="center">  
-<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/12244/wordpress-logo.svg" alt="WordPress" height="50" /></a>  
+<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303472/wordpress-logo.svg" alt="WordPress" height="50" /></a>  
 <a href="https://www.shopify.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303503/shopify-logo.svg" alt="Shopify" height="50" /></a>  
 </div>
 
