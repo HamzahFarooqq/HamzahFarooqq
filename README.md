@@ -46,8 +46,8 @@
 
 ### CMS  
 <div align="center">  
-<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://github.com/HamzahFarooqq/HamzahFarooqq/edit/main/README.md" alt="WordPress" height="50" /></a>  
-<a href="https://www.shopify.com/" target="_blank"><img style="margin: 10px" src="https://images.app.goo.gl/ReMGmkqbR1337r4YA" alt="Shopify" height="50" /></a>  
+<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://e7.pngegg.com/pngimages/510/1010/png-clipart-wordpress-com-blog-wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.shopify.com/" target="_blank"><img style="margin: 10px" src="https://e7.pngegg.com/pngimages/228/200/png-clipart-shopify-computer-icons-e-commerce-sales-inventory-management-software-marketing-logo-packaging-and-labeling.png" alt="Shopify" height="50" /></a>  
 </div>
 
 </td></tr></table>  
