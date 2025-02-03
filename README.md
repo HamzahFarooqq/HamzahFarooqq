@@ -44,11 +44,10 @@
 
 
 
-### DevOps  
+### CMS  
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Git" height="50" /></a>  
+<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://github.com/HamzahFarooqq/HamzahFarooqq/edit/main/README.md" alt="WordPress" height="50" /></a>  
+<a href="https://www.shopify.com/" target="_blank"><img style="margin: 10px" src="https://images.app.goo.gl/ReMGmkqbR1337r4YA" alt="Shopify" height="50" /></a>  
 </div>
 
 </td></tr></table>  
