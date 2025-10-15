@@ -1,6 +1,6 @@
 
 
- ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/hamza-f/">Hamza Farooq</a>, a Full-stack Developer 👨‍💻</div>  
+ ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/hamza-f/">Hamza Farooq</a>, a Full-stack Engineer 👨‍💻</div>  
   
   
 
