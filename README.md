@@ -4,10 +4,10 @@
   
   
 
-- 🌱 I’m currently learning Laravel / Reactjs  
+- 🌱 I’m interested in working on Laravel, Reactjs, Nodejs, MySQL, MongoDB, Python. 
   
 
-- 👯 I’m looking to collaborate on Web Development projects  
+- 👯 I’m looking to collaborate on Development projects.  
   
   
 
