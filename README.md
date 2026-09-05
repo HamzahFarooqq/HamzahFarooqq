@@ -1,10 +1,10 @@
 
 
- ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/hamza-f/">Hamza Farooq</a>, a Full-stack Engineer 👨‍💻</div>  
+ ### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/hamza-f/">Engineer Hamza Farooq</a> 👨‍💻</div>  
   
   
 
-- 🌱 I’m interested in working on Laravel, Reactjs, Nodejs, MySQL, MongoDB, Python. 
+- 🌱 I’m interested in working on Python, AI, Machine Learning, Computational Materials Science.
   
 
 - 👯 I’m looking to collaborate on Development projects.  
